@@ -1,3 +1,0 @@
-/Users/reddytintayaconde/Desktop/Codes/uri-oj-soulutions/strings/1873-Rock-paper-scissors-lizard-Spock/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/reddytintayaconde/Desktop/Codes/uri-oj-soulutions/strings/1873-Rock-paper-scissors-lizard-Spock/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/reddytintayaconde/Desktop/Codes/uri-oj-soulutions/strings/1873-Rock-paper-scissors-lizard-Spock/cmake-build-debug/CMakeFiles/1873_Rock_paper_scissors_lizard_Spock.dir
